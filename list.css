@@ -1,9 +1,9 @@
 body {
   /* background-image: url('/linedpaper/pexels-photo-1992912.jpeg'); */
    /* background-image: url('/linedpaper/pexels-photo-1992913.jpeg'); */
-/*   background-image: url('/linedpaper/pexels-photo-3927899.jpeg');  */
+  background-image: url('/linedpaper/pexels-photo-3927899.jpeg'); 
 	
-  background-color:#94B49F;
+/*   background-color:#94B49F; */
   width: 600px;
   margin: 0 auto;
   padding: 0;
@@ -30,7 +30,7 @@ input[type="text"]{
 }
 
 h1 {
-  color: White;
+  color: Black;
   font-size: 50px;
 }
 
